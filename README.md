@@ -15,4 +15,4 @@ Este es el repositorio de la clase de bioinformática semestre 2022I.
 
 ## EJECUCION
 
-En este repositorio se tiene almacenado las tareas, pruebas y actividades de la clase de bioinformatica 
+En este repositorio se tiene almacenado las tareas, la data y los examenes de la clase de bioinformatica 
